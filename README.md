@@ -3,8 +3,8 @@
 ###  DATE: 
 
 ###  NAME ELAVARASAN M: 
-###  ROLL NO 212224040083:
-###  DEPARTMENT Computer Science and Engineering: 
+###  ROLL NO : 212224040083
+###  DEPARTMENT : Computer Science and Engineering 
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
